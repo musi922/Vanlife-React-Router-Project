@@ -41,6 +41,7 @@ export default function HostLayout() {
                 </NavLink>
 
             </nav>
+            
             <Outlet />
         </>
     )
